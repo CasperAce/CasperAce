@@ -1,4 +1,4 @@
-- 👋 I’m @CasperAce
+- 👋 @CasperAce
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning steps by steps for my future gamedev dream 
 - 📫 How to reach me https://github.com/CasperAce
